@@ -1,7 +1,7 @@
 # cPanel_backup_issues_tool
 A short bash script that helps diagnose backup issues from the cPanel backup logs
 
-Currently this script outputs information with backticks which can be pasted directly as a comment into ticketing systems that support markup and displays
+Currently this script outputs information with backticks which can be pasted directly as a comment into ticketing systems that support markup and displays the following information:
 
 1. The server name
 2. The last two cPanel backup logs last two lines which indicate the completion status, or if they are still in progress ........
